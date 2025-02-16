@@ -18,6 +18,7 @@
 #include "Widgets/Layout/SScrollBox.h"
 #include "LuaUserDataObject.h"
 #include "LuaCodeFactory.h"
+#include "UObject/UObjectIterator.h"
 
 #define LOCTEXT_NAMESPACE "FLuaMachineEditorModule"
 
